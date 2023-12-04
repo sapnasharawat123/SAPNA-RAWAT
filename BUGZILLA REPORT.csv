@@ -1,0 +1,39 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+18,critical,High,Windows,rahulsharma@gmail.com,ASSIGNED,---,CHECK ALL ITEMS MENU
+21,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITHOUT ENTERING DETAILS
+22,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITHOUT ENTERING LAST NAME AND ZIP CODE
+24,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITHOUT ENTERING FIRST NAME AND LAST NAME
+25,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITH NUMERIC VALUE IN FIRST NAME
+26,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITH NUMERIC VALUE IN LAST NAME
+27,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITH WHITE SAPCE IN FIRST NAME
+28,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITH WHITE SAPCE IN LAST NAME
+29,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITH WHITE SAPCE IN ZIP CODE
+30,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITH ENTERING SPECIAL CHRACTER IN FIRST NAME
+31,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITH ENTERING SPECIAL CHARACTER IN LAST NAME
+32,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITH LEGNTH OF CHARACTER IN FIRST NAME
+34,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITH LEGNTH OF CHARACTER IN POSTAL CODE
+35,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITH MIXED  CHARACTER IN FIRST NAME
+37,critical,Normal,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITH MIXED  CHARACTER IN POSTAL CODE
+1,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH INVALID DETAILS
+2,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH BLANK OR NULL VALUE
+4,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH VALID PASSWORD AND INVALID USERNAME
+5,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH BLANK USERNAME AND CORRECT PASSWORD
+6,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH CORRECT USERNAME AND BLANK PASSWORD
+7,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH WITH WHITE SPACE IN USERNAME AND CORRECT PASSWORD
+9,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH NUMERIC VALUE IN USERNAME
+10,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH ALPHA -NUMERIC AND SPECIAL CHARACTER VALUE IN USERNAME
+11,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH LEGNTH OF THE USERNAME
+12,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH  LEGNTH OF PASSWORD
+13,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH WHITE SPACE IN PASSWORD
+14,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH ONLY NUMBER IN PASSWORD
+15,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH ONLY SPECIAL CHARACTER IN PASSWORD
+16,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,CHECK LOGIN BUTTON WITH ONLY AIPHABETS IN PASSWORD
+17,critical,Normal,Windows,kamiya@gmail.com,ASSIGNED,---,"CHECK LOGIN BUTTON WITH NUMBERS,SPECIAL CHARACTER AND AIPHABETS IN PASSWORD"
+38,critical,Low,Windows,asharawat@gmail.com,ASSIGNED,---,CHECK CONTINUE BUTTON WITH ENTERING INVLID VALUE
+19,critical,Low,Windows,rahulsharma@gmail.com,ASSIGNED,---,CHECK ABOUT MENU
+23,critical,High,Windows,asharawat@gmail.com,RESOLVED,FIXED,CHECK CONTINUE BUTTON WITHOUT ENTERING FIRST NAME AND ZIP CODE
+20,critical,High,Windows,rahulsharma@gmail.com,RESOLVED,FIXED,CHECK RESET APP STATE  MENU
+33,critical,Normal,Windows,asharawat@gmail.com,RESOLVED,FIXED,CHECK CONTINUE BUTTON WITH LEGNTH OF CHARACTER IN LAST NAME
+36,critical,Normal,Windows,asharawat@gmail.com,RESOLVED,FIXED,CHECK CONTINUE BUTTON WITH MIXED  CHARACTER IN LAST  NAME
+3,critical,Normal,Windows,kamiya@gmail.com,RESOLVED,FIXED,CHECK LOGIN BUTTON WITH VALID USERNAME AND INVALID PASSWORD
+8,critical,Normal,Windows,kamiya@gmail.com,RESOLVED,FIXED,CHECK LOGIN BUTTON WITH  SPECIAL CHARACTER IN USERNAME
