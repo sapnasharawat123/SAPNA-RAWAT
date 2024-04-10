@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  
+  <parameter name="username" value="sapnarawat@gmail.com"/>
+  <parameter name="password" value="sapna1999"/>
+    <classes>
+      <class name="com.ass_TestNG.ParameterDemo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
